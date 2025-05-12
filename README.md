@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavin Umatiya</h1>
-<h3 align="center">A passionate Data science & Machine learning from India</h3>
+<h3 align="center">A passionate Hardware Design ,Data science & AI from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin-umatiya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin-umatiya" /> </p>
 
 - 🔭 I’m currently working on **Data science,Hardware**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Ai and Verilog**
 
 - 💬 Ask me about **python,pandas,numpy,matplotlib,Hardware,Verilog**
 

@@ -53,7 +53,7 @@
 
 ---
 
-### 🌍 Open Source Footprint
+### 🌍 Open Source Contributor
 
 As an active contributor to the **[Linux Foundation](https://github.com/linuxfoundation)**, I believe in writing production-grade, review-ready code:
 - 🛠️ **[Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr):** Contributed POSIX compliance fixes and passed strict Twister/checkpatch CI pipelines.
@@ -61,18 +61,4 @@ As an active contributor to the **[Linux Foundation](https://github.com/linuxfou
 
 ---
 
-### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavin-umatiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bhavin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavin-umatiya&theme=tokyonight&hide_border=true" alt="Bhavin's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin-umatiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-</p>
-
-<div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" width="100%"/>
-</div>

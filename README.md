@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+I'm+Bhavin+👋;Silicon+Builder;RTL+Design+%26+Verification;Embedded+Systems+Engineer" />
 </h1>
 
-<h3 align="center">R&D Hardware Intern @Oizom | Linux Foundation Contributor</h3>
+<h3 align="center">Linux Foundation Contributor</h3>
 
 <p align="center">
   <em>I fell in love with hardware the day I watched a signal propagate through a gate-level netlist I'd designed—and realized I was watching logic think. My mission is to design silicon that ships.</em>

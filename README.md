@@ -1,7 +1,7 @@
 # Bhavin Umatiya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&lines=FPGA+%2F+HLS+Acceleration;RTL+Design+%26+UVM+Verification;Embedded+Firmware+(Zephyr%2C+STM32);Upstream+contributor+to+Zephyr%2C+ROS+2%2C+BlackParrot" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&lines=FPGA+%2F+Hardware+Acceleration;RTL+Design%26;Embedded+Firmware+(Zephyr%2C+STM32);Upstream+contributor+to+Zephyr%2C+ROS+2%2C+BlackParrot" />
 </p>
 
 <p align="center">
